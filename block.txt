@@ -1,0 +1,8 @@
+# Netease client IP detection - leaks user IP address
+music.httpdns.c.163.com
+
+# Thunder copyright claim list
+hub5btmain.sandai.net
+
+# ChinaNet mobile device registration
+zzhc.vnet.cn
