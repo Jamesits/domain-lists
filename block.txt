@@ -6,3 +6,6 @@ hub5btmain.sandai.net
 
 # ChinaNet mobile device registration
 zzhc.vnet.cn
+
+# UBNT data collection
+trace.svc.ui.com
