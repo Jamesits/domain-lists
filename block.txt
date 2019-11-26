@@ -9,3 +9,6 @@ zzhc.vnet.cn
 
 # UBNT data collection
 trace.svc.ui.com
+
+# Synology GeoIP wall
+checkip.synology.com
